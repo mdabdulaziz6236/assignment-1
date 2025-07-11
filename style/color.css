@@ -1,0 +1,99 @@
+
+
+.inter-black{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900px;
+  font-style: normal;
+}
+
+.inter-bold{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+}
+header div h1{
+    font-size: 65px;
+     font-weight: 700px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+nav h3{
+    font-size: 34px;
+    margin-top: 51px;
+}
+
+nav ul li{
+    list-style: none;
+   
+}
+nav ul li a{
+    text-decoration: none;
+    /* padding: 36px 12px; */
+}
+.primary-color{
+    color:rgba(78, 71, 255, 1);
+    margin-top: 51px ;
+}
+button{
+     background-color:#4E47FF;
+     color: white;
+     padding:12px 36px ;
+     /* width: 132px;
+     height: 48px; */
+     border: none;
+      font-size:16px ;
+      border-radius: 3px;
+      
+      
+    
+     
+}
+.sign-up-button{
+margin-top: 51px;
+}
+.button-2{
+   margin-top: 37px;
+}
+
+    
+
+
+.header-1z{
+    height: 151px;
+    width: 1140px;
+}
+.header-title{
+    text-align: center;
+    width: 905px;
+    height: 237px;
+    /* justify-content: center; */
+    padding: 158px 267px 152px 267px ;
+}
+header{
+    width: 1440px;
+    height: 698px;}
+    .header-second-button{
+        margin:0px 51px;
+    }
+/* jdkfjkhagh */
+
+.action{
+    display: flex;
+    justify-content: space-around;
+    margin: 116px 159px 116px 141px ;
+   /* display: inline-block; */
+}
+
+.button-3{
+    margin: 23px 288px 0px 0px;
+}
+.image-2{
+    border-radius: 48px;
+}
