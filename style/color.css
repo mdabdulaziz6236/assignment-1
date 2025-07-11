@@ -19,6 +19,7 @@ header div h1{
 }
 
 
+
 nav{
     display: flex;
     justify-content: space-around;
@@ -135,4 +136,21 @@ padding: 60px;
   align-items:center ;
   
   padding: 32px 20px;
+}
+footer{
+    text-align: center;
+}
+.footer-div{
+display: flex;
+justify-content: center;
+gap: 48px;
+}
+.inter-black{
+    /* color: #4E47FF; */
+}
+.footer-div{color: black;
+
+}
+.footer-subtitle{
+    color: black;
 }
