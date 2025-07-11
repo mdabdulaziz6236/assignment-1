@@ -97,3 +97,15 @@ header{
 .image-2{
     border-radius: 48px;
 }
+.joined{
+    text-align: center;
+}
+.inter-size{
+    font-size: 80px;
+}
+.active-user{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 182px;
+    margin-bottom: 0px;
+}
